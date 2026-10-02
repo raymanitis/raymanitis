@@ -53,7 +53,7 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raymanitis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raymanitis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github" alt="stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymanitis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages" />
 </p>
 
