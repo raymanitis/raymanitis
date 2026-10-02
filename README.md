@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=hey,%20i'm%20raymans&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20%26%20FiveM%20developer%20%C2%B7%20Latvia&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=hey,%20i'm%20raymans&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20and%20FiveM%20developer%20%C2%B7%20Latvia&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
 </p>
 
 <p align="center">
@@ -57,6 +57,28 @@
 - **[discord-bot](https://github.com/raymanitis/discord-bot)** — moderation, polls, reminders and welcome messages. discord.js v14, SQLite, Zod, Pino, GitHub Actions.
 
 ### 🎮 FiveM resources
+
+Built with **[RMSCRIPTS-DEV](https://github.com/RMSCRIPTS-DEV)**:
+
+<p align="center">
+  <a href="https://github.com/RMSCRIPTS-DEV/illenium-appearance">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RMSCRIPTS-DEV&repo=illenium-appearance&theme=tokyonight&hide_border=true&bg_color=0d1117&show_owner=true" alt="illenium-appearance" />
+  </a>
+  <a href="https://github.com/RMSCRIPTS-DEV/RM-RADIO-VOICE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RMSCRIPTS-DEV&repo=RM-RADIO-VOICE&theme=tokyonight&hide_border=true&bg_color=0d1117&show_owner=true" alt="RM-RADIO-VOICE" />
+  </a>
+  <a href="https://github.com/RMSCRIPTS-DEV/rm-custom-blips">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RMSCRIPTS-DEV&repo=rm-custom-blips&theme=tokyonight&hide_border=true&bg_color=0d1117&show_owner=true" alt="rm-custom-blips" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/RMSCRIPTS-DEV/illenium-appearance"><img src="https://img.shields.io/github/stars/RMSCRIPTS-DEV/illenium-appearance?label=illenium-appearance&style=flat-square&color=2c5364&logo=github" alt="illenium-appearance stars" /></a>
+  <a href="https://github.com/RMSCRIPTS-DEV/RM-RADIO-VOICE"><img src="https://img.shields.io/github/stars/RMSCRIPTS-DEV/RM-RADIO-VOICE?label=RM-RADIO-VOICE&style=flat-square&color=2c5364&logo=github" alt="RM-RADIO-VOICE stars" /></a>
+  <a href="https://github.com/RMSCRIPTS-DEV/rm-custom-blips"><img src="https://img.shields.io/github/stars/RMSCRIPTS-DEV/rm-custom-blips?label=rm-custom-blips&style=flat-square&color=2c5364&logo=github" alt="rm-custom-blips stars" /></a>
+</p>
+
+My own:
 
 <p align="center">
   <a href="https://github.com/raymanitis/rm-ownableshops">
