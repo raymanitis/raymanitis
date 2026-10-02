@@ -1,11 +1,11 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=hey,%20i'm%20raymans&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FiveM%20developer%20%C2%B7%20Lua%20%2F%20TypeScript&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=hey,%20i'm%20raymans&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20%26%20FiveM%20developer%20%C2%B7%20Latvia&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/raymanitis">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=7DD3FC&center=true&vCenter=true&width=520&lines=Building+scripts+for+FiveM+servers;Lua+%2B+TypeScript+%2B+NUI;Clean+code%2C+smooth+UI%2C+zero+lag;Based+in+Latvia+%F0%9F%87%B1%F0%9F%87%BB" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=7DD3FC&center=true&vCenter=true&width=560&lines=Building+websites+and+web+apps;Next.js+%2B+TypeScript+%2B+PostgreSQL;Discord+bots+and+tooling;FiveM+scripts+in+Lua+%2B+NUI;Based+in+Latvia+%F0%9F%87%B1%F0%9F%87%BB" alt="typing" />
   </a>
 </p>
 
@@ -19,21 +19,44 @@
 
 ### 👋 About me
 
-- 🛠️ FiveM developer at **Atleast Studio**
-- 🎮 Writing resources for **QBox / QBCore / ESX** with `ox_lib`
-- 💻 Lua on the backend, TypeScript + React for NUI
-- 🌱 Currently exploring web apps and Discord bots
+- 💻 Developer building **websites, web apps, Discord bots and game scripts**
+- 🌐 Full-stack with **TypeScript, Next.js, React, Node.js, PostgreSQL**
+- 🎮 FiveM developer at **[Atleast Studio](https://studio.atleast.lv)** — Lua + NUI
+- 🐳 Shipping with Docker, tests with Vitest, CI with GitHub Actions
 - ⚡ I care about performance, clean structure and nice UI
 
 ### 🧰 Tech stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,ts,js,react,html,css,tailwind,nodejs,git,github,vscode,discord&perline=12" alt="skills" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,html,css,postgres,sqlite&perline=10" alt="web stack" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=lua,docker,githubactions,git,github,vscode,discord&perline=10" alt="tools" />
   </a>
 </p>
 
-### 📌 Featured projects
+### 🌐 Websites I've built
+
+| Site | What it is |
+| --- | --- |
+| **[atleast.lv](https://atleast.lv)** | Website for ATLEAST RP — Latvian FiveM roleplay community, with whitelist application flow |
+| **[studio.atleast.lv](https://studio.atleast.lv)** | Atleast Studio — FiveM script store and documentation |
+
+### 🚀 Web & tooling projects
+
+<p align="center">
+  <a href="https://github.com/raymanitis/taskflow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raymanitis&repo=taskflow&theme=tokyonight&hide_border=true&bg_color=0d1117&description_lines_count=2" alt="taskflow" />
+  </a>
+  <a href="https://github.com/raymanitis/discord-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raymanitis&repo=discord-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&description_lines_count=2" alt="discord-bot" />
+  </a>
+</p>
+
+- **[taskflow](https://github.com/raymanitis/taskflow)** — kanban task manager with auth, priorities, due dates and stats. Next.js 15, PostgreSQL + Drizzle, Tailwind, Docker.
+- **[discord-bot](https://github.com/raymanitis/discord-bot)** — moderation, polls, reminders and welcome messages. discord.js v14, SQLite, Zod, Pino, GitHub Actions.
+
+### 🎮 FiveM resources
 
 <p align="center">
   <a href="https://github.com/raymanitis/rm-ownableshops">
